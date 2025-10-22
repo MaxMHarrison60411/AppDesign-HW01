@@ -1,0 +1,14 @@
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\bin\Debug\net9.0\HW01Project.exe
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\bin\Debug\net9.0\HW01Project.deps.json
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\bin\Debug\net9.0\HW01Project.runtimeconfig.json
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\bin\Debug\net9.0\HW01Project.dll
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\bin\Debug\net9.0\HW01Project.pdb
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\HW01Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\HW01Project.AssemblyInfoInputs.cache
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\HW01Project.AssemblyInfo.cs
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\HW01Project.csproj.CoreCompileInputs.cache
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\HW01Project.dll
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\refint\HW01Project.dll
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\HW01Project.pdb
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\HW01Project.genruntimeconfig.cache
+c:\Users\harmaxm\Desktop\online tuesday\hw1\HW01Project\obj\Debug\net9.0\ref\HW01Project.dll
